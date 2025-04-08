@@ -1,4 +1,5 @@
 "Item_Number","Set_Name","Year","Theme","Ages","Pieces","Unique_Pieces","Price","Amazon_Price","Pages","Minifigures","Packaging","Weight","Size","Availability"
+41916,"Extra Dots - Series 2",2020,"DOTS","6+",109,6,3.99,3.44,NA,0,"Foil pack",NA,"Small","Retail"
 41908,"Extra Dots - Series 1",2020,"DOTS","6+",109,6,3.99,3.99,NA,0,"Foil pack",NA,"Small","Retail"
 11006,"Creative Blue Bricks",2020,"Classic","4+",52,28,4.99,4.93,37,0,"Box",NA,"Small","Retail"
 11007,"Creative Green Bricks",2020,"Classic","4+",60,36,4.99,4.93,37,0,"Box",NA,"Small","Retail"
@@ -344,7 +345,6 @@
 70434,"Supernatural Race Car",2020,"Hidden Side","7+",244,115,29.99,29.99,80,3,"Box",NA,"Small","Retail"
 71366,"Boomer Bill Barrage",2020,"LEGO Super Mario","7+",132,70,29.99,29.99,NA,2,"Box",NA,"Small","Retail"
 70659,"Spinjitzu Kai",2019,"NINJAGO","7+",97,23,9.99,30,32,1,"Box",130,"Small","Retail"
-10715,"Bricks on a Roll",2018,NA,NA,442,153,NA,30.34,99,0,"Box",NA,NA,"Retail"
 10765,"Ariel's Underwater Concert",2018,"Juniors","4-7",92,55,14.99,30.48,40,1,"Box",NA,"Small",NA
 10895,"Emmet and Lucy's Visitors from the DUPLO Planet",2019,"THE LEGO MOVIE 2","2+",53,37,29.99,30.72,25,2,"Box",800,"Small","Retail"
 75885,"Ford Fiesta M-Sport WRC",2018,"Speed Champions","7-14",203,88,14.99,30.85,60,1,"Box",240,"Small","Retail"
@@ -412,7 +412,6 @@
 76118,"Mr. Freeze Batcycle Battle",2019,"Batman","6+",200,97,19.99,37.03,68,3,"Box",300,"Small","Retail"
 31075,"Outback Adventures",2018,"Creator 3-in-1","7-12",225,103,19.99,37.15,148,1,"Box",390,"Small","Retail"
 75206,"Jedi and Clone Troopers Battle Pack",2018,"Star Wars","6-12",102,54,14.99,37.5,32,3,"Box",130,"Small","Retail"
-41159,"Cinderella's Carriage Ride",2019,"Disney","4+",91,58,NA,37.75,48,1,NA,240,"Small",NA
 75886,"Ferrari 488 GT3 Scuderia Corsa",2018,"Speed Champions","7-14",179,78,14.99,37.88,56,1,"Box",220,"Small","Retail"
 70918,"The Bat-Dune Buggy",2018,"DC","7-14",198,92,19.99,37.89,64,2,"Box",NA,"Small","Retail"
 60179,"Ambulance Helicopter",2018,"City","5-12",190,108,19.99,37.95,84,3,"Box",410,"Small","Retail"
@@ -825,146 +824,44 @@
 75222,"Betrayal at Cloud City",2018,"Star Wars","14+",2812,676,349.99,668.18,388,19,"Box",NA,"Small","LEGO exclusive"
 75252,"Imperial Star Destroyer",2019,"Star Wars","16+",4784,445,699.99,699.95,444,2,"Box",NA,"Small","LEGO exclusive"
 40362,"Battle of Endor",2019,"Star Wars","8+",197,40,14.99,NA,1,0,"Box",NA,"Small","Promotional"
-30545,"Fish Free Builds - Make It Yours",2019,NA,"5+",39,22,NA,NA,2,0,"Polybag",NA,NA,"LEGO exclusive"
-30548,"Build Your Own Birds - Make it Yours",2020,NA,"5+",26,15,NA,NA,2,0,"Polybag",10,NA,"LEGO exclusive"
 30556,"Mini Frame",2020,"DOTS","6+",85,13,4.99,NA,2,0,"Polybag",NA,"Small","LEGO exclusive"
-40315,"Ninjago Board Game",2018,NA,"6+",49,28,NA,NA,2,0,"Polybag",NA,NA,NA
 40320,"Plants From Plants",2018,NA,"6+",29,5,4.99,NA,2,0,"Box",60,NA,"LEGO exclusive"
-40435,"Plants from Plants",2019,NA,"6+",29,5,NA,NA,2,0,"Box",NA,NA,"Not sold"
-81001,"Shark Skin",2019,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA
-81002,"Splash Koi Skin",2019,NA,"12+",33,NA,NA,NA,2,0,NA,NA,NA,NA
-81003,"Ink Koi Skin",2019,NA,NA,NA,NA,NA,NA,2,0,NA,NA,NA,NA
 41914,"Creative Picture Frames",2020,"DOTS","6+",398,31,19.99,NA,2,0,NA,NA,"Small","Retail"
 30326,"Farm - Girl",2018,"DUPLO","1½-5",4,NA,3.49,NA,3,0,NA,NA,"Large",NA
-30327,"My First Duck",2019,NA,NA,6,6,NA,NA,3,0,"Polybag",NA,NA,NA
-30328,"Town Rescue - Bird",2019,NA,NA,NA,NA,NA,NA,3,0,NA,NA,NA,NA
-30329,"My First Giraffe",2020,NA,NA,5,4,NA,NA,3,0,"Polybag",NA,NA,NA
-30330,"Birthday Cake",2020,NA,NA,9,8,NA,NA,3,0,"Polybag",NA,NA,NA
-30339,"Traffic Light Patrol",2018,NA,NA,30,24,NA,NA,3,1,"Polybag",NA,NA,NA
-30340,"Emmet's 'Piece' Offering",2019,NA,"6+",44,18,NA,NA,3,1,"Polybag",NA,NA,NA
 30341,"Monkie Kid's Delivery Bike",2020,"Monkie Kid","5+",22,18,4.99,NA,3,1,"Polybag",NA,"Small","LEGO exclusive"
-30356,"Hot Dog Stand",2018,NA,"5 - 12",43,34,NA,NA,3,1,"Polybag",NA,NA,"Promotional"
 30357,"Road Worker",2018,"City","5-12",58,33,3.99,NA,3,1,"Polybag",40,"Small","Retail - limited"
 30358,"Dragster",2018,NA,"5-12",40,30,3.99,NA,3,1,"Polybag",40,NA,"Retail - limited"
 30359,"Police Water Plane",2018,"City","5-12",48,36,3.99,NA,3,1,"Polybag",40,"Small","Retail - limited"
 30360,"Arctic Ice Saw",2018,"City","5-12",43,34,3.99,NA,3,1,"Polybag",40,"Small","Retail - limited"
 30361,"Fire ATV",2019,NA,"5+",39,26,3.99,NA,3,1,"Polybag",40,NA,"Promotional"
-30362,"Sky Police Jetpack",2019,NA,"5+",33,27,NA,NA,3,2,"Polybag",30,NA,NA
-30363,"Race Boat",2019,NA,"5+",34,29,NA,NA,3,1,"Polybag",30,NA,"Retail - limited"
-30364,"Popcorn Cart",2019,NA,"5+",43,26,NA,NA,3,1,"Polybag",40,NA,"Retail"
 30365,"Space Satellite",2019,"City","5+",36,24,3.99,NA,3,1,"Polybag",30,"Small","Retail - limited"
-30366,"Police Car",2020,NA,"5+",37,23,NA,NA,3,1,"Polybag",30,NA,"Retail - limited"
-30367,"Police Helicopter",2020,NA,"5+",39,31,NA,NA,3,1,"Polybag",NA,NA,"Retail - limited"
-30368,"Fire Rescue Water Scooter",2020,NA,"5+",33,26,NA,NA,3,1,"Polybag",40,NA,"Retail - limited"
 30369,"Beach Buggy",2020,"City","5+",45,29,4.99,NA,3,1,"Polybag",40,"Small","Retail - limited"
-30381,"Imperial TIE Fighter",2018,NA,NA,42,20,NA,NA,3,0,"Polybag",NA,NA,NA
 30382,"Baby Velociraptor Playpen",2018,"Jurassic World","6-12",48,25,3.99,NA,3,0,"Polybag",NA,"Small","Promotional"
-30383,"Naboo Starfighter",2019,NA,NA,48,33,NA,NA,3,0,"Polybag",NA,NA,NA
-30384,"Snowspeeder",2019,NA,"6+",49,25,NA,NA,3,0,"Polybag",NA,NA,"Retail"
-30386,"Poe Dameron's X-wing Fighter",2020,NA,NA,72,27,NA,NA,3,0,"Polybag",NA,NA,NA
-30393,"Steve and Creeper Set",2019,NA,NA,36,30,NA,NA,3,2,"Polybag",NA,NA,NA
-30394,"The Skeleton Defense",2020,NA,NA,NA,24,NA,NA,3,2,"Polybag",NA,NA,NA
 30403,"Olivia's Remote Control Boat",2018,"Friends","6-10",25,23,3.99,NA,3,1,"Polybag",NA,"Small","Retail - limited"
-30404,"Friendship Flower",2018,"Friends","7-12",100,22,NA,NA,3,0,"Polybag",NA,"Small","LEGO exclusive"
-30405,"Stephanie's Hockey Practice",2018,NA,"6 - 10",35,27,NA,NA,3,1,"Polybag",NA,NA,NA
 30406,"Unikitty Roller Coaster Wagon",2018,"Unikitty!","5-10",46,28,3.99,NA,3,1,"Polybag",NA,"Small",NA
-30407,"Harry's Journey to Hogwarts",2018,NA,"6+",40,22,NA,NA,3,1,"Polybag",NA,NA,"Retail - limited"
-30408,"Tulips",2019,NA,NA,90,28,NA,NA,3,0,"Polybag",NA,NA,NA
-30409,"Emma's Bumper Cars",2019,NA,NA,66,34,NA,NA,3,1,"Polybag",NA,NA,"Retail - limited"
 30410,"Mia's Water Fun",2019,NA,"5+",28,24,3.99,NA,3,1,"Polybag",NA,NA,NA
 30411,"Chocolate Box & Flower",2020,"Friends","5+",75,32,4.99,NA,3,0,"Polybag",NA,"Small","Retail - limited"
-30412,"Park Picnic",2020,NA,NA,NA,29,NA,NA,3,1,"Polybag",NA,NA,NA
 30450,"Royal Talon Fighter",2018,"Marvel","6-12",59,25,3.99,NA,3,0,"Polybag",NA,"Small","Retail - limited"
-30451,"Spider-Man's Mini Spider Crawler",2019,NA,NA,73,21,NA,NA,3,1,"Polybag",NA,NA,NA
-30452,"Iron Man and Dum-E",2019,NA,"6+",38,28,NA,NA,3,1,"Polybag",NA,NA,NA
-30453,"Captain Marvel and Nick Fury",2020,NA,"6+",32,28,NA,NA,3,2,"Polybag",NA,NA,NA
 30460,"Rex's Plantimal Ambush",2019,"THE LEGO MOVIE 2","6+",32,23,3.99,NA,3,1,"Polybag",NA,"Small","Retail - limited"
-30461,"Podracer",2019,NA,"6+",58,24,NA,NA,3,0,"Polybag",NA,NA,NA
-30463,"Chef Enzo's Haunted Hotdogs",2020,NA,NA,NA,25,NA,NA,3,1,"Polybag",NA,NA,NA
-30464,"El Fuego's Stunt Cannon",2020,NA,NA,NA,28,NA,NA,3,1,"Polybag",NA,NA,NA
-30498,"Imperial AT-Hauler",2018,NA,NA,49,23,NA,NA,3,0,"Polybag",NA,NA,NA
 30525,"The Guardians' Ship",2018,"Marvel","6-12",69,36,3.99,NA,3,0,"Polybag",NA,"Small",NA
-30526,"The Mini Ultimate Batmobile",2018,NA,"7 - 14",84,39,NA,NA,3,0,"Polybag",NA,NA,NA
-30527,"Lucy vs. Alien Invader",2019,NA,NA,44,25,NA,NA,3,1,"Polybag",NA,NA,NA
-30528,"Mini Master-Building MetalBeard",2019,NA,"6+",42,30,NA,NA,3,1,"Polybag",NA,NA,"Retail"
-30529,"Mini Master-Building Emmet",2019,NA,"6+",49,33,NA,NA,3,1,"Polybag",NA,NA,"Retail - limited"
-30530,"WU-CRU Target Training",2018,NA,"6 - 12",46,26,NA,NA,3,2,"Polybag",NA,NA,NA
-30531,"Sons of Garmadon",2018,NA,NA,33,24,NA,NA,3,1,"Polybag",NA,NA,NA
-30532,"Turbo",2018,NA,NA,61,32,NA,NA,3,1,"Polybag",NA,NA,NA
-30533,"Sam-X",2019,NA,NA,56,23,NA,NA,3,0,"Polybag",NA,NA,NA
-30534,"Ninja Workout",2019,NA,"6+",31,23,NA,NA,3,1,"Polybag",NA,NA,NA
-30535,"Fire Flight",2019,NA,"6+",54,30,NA,NA,3,1,"Polybag",NA,NA,NA
-30536,"Combo Charger",2020,NA,NA,NA,35,NA,NA,3,0,"Polybag",NA,NA,NA
-30537,"Merchant Avatar Jay",2020,NA,NA,NA,29,NA,NA,3,1,"Polybag",NA,NA,NA
-30540,"Yellow Flyer",2018,NA,"6 - 12",43,29,NA,NA,3,0,"Polybag",NA,NA,NA
-30543,"Christmas Train",2018,NA,"6 - 12",66,29,NA,NA,3,0,"Polybag",40,NA,"Retail - limited"
-30547,"Dragon Hunter",2018,NA,"7 - 12",61,35,NA,NA,3,1,"Polybag",NA,NA,NA
-30549,"Build Your Own Vehicles - Make it Yours",2020,NA,NA,NA,24,NA,NA,3,0,"Polybag",NA,NA,NA
 30550,"Easter Bunny",2020,NA,"6+",67,33,4.99,NA,3,0,"Polybag",40,NA,"Retail - limited"
-30552,"Ariel's Underwater Symphony",2018,NA,"5 - 10",51,33,NA,NA,3,1,"Polybag",30,NA,NA
-30553,"Elsa's Winter Throne",2019,NA,"5+",42,29,NA,NA,3,1,"Polybag",NA,NA,"Retail - limited"
-30554,"Cinderella Mini Castle",2020,NA,NA,NA,32,NA,NA,3,1,"Polybag",NA,NA,NA
 30555,"Poppy's Carriage",2020,"Trolls World Tour","6+",51,30,4.99,NA,3,1,"Polybag",NA,"Small","Retail - limited"
-30571,"Pelican",2019,NA,"6+",62,33,NA,NA,3,0,"Polybag",40,NA,"Retail - limited"
-30572,"Race Car",2019,NA,NA,68,31,NA,NA,3,0,"Polybag",NA,NA,NA
-30573,"Santa",2019,NA,"6+",67,35,NA,NA,3,0,"Polybag",40,NA,"LEGO exclusive"
-30574,"Cat",2020,NA,"6+",55,21,NA,NA,3,0,"Polybag",30,NA,"Retail - limited"
-30575,"Train",2020,NA,"6+",NA,36,NA,NA,3,0,"Polybag",NA,NA,NA
-30615,"Edna Mode",2018,NA,NA,4,4,NA,NA,3,1,"Polybag",NA,NA,"Promotional"
-30620,"Star-Stuck Emmet",2019,NA,"6+",41,29,NA,NA,3,1,"Polybag",NA,NA,"Promotional"
-40276,"Walrus",2018,NA,NA,55,21,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40277,"Car and petrol pump",2018,NA,NA,44,28,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40278,"Lamb",2018,NA,NA,45,27,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40279,"Frog",2018,NA,NA,43,18,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40280,"Tractor",2018,NA,NA,38,25,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40281,"Surfer Dragon",2018,NA,NA,43,27,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40282,"BBQ",2018,NA,NA,37,22,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40283,"Snail",2018,NA,NA,37,19,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40284,"Glider",2018,NA,NA,29,24,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40285,"Scarecrow",2018,NA,NA,24,15,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40286,"Ice Dragon",2018,NA,NA,50,17,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40287,"Sleigh",2018,NA,NA,64,36,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
 40288,"BB-8",2018,NA,"6-12",48,17,4.99,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
 40298,"DJ",2018,"Star Wars","6+",22,15,4.99,NA,3,1,"Polybag",NA,"Small",NA
-40299,"Kessel Mine Worker",2018,NA,"6+",22,16,NA,NA,3,1,"Polybag",NA,NA,NA
-40300,"Han Solo Mudtrooper",2018,NA,"6+",22,15,NA,NA,3,1,"Polybag",NA,NA,NA
-40301,"Bat Shooter",2018,NA,"6+",40,17,NA,NA,3,0,"Polybag",NA,NA,NA
-40302,"Become my City Hero",2018,NA,NA,85,46,NA,NA,3,1,"Polybag",NA,NA,"Retail - limited"
 40311,"Traffic Lights",2018,"Xtra","6+",46,17,3.99,NA,3,0,"Polybag",30,"Small","LEGO exclusive"
 40312,"Streetlamps",2018,"Xtra","6+",34,24,3.99,NA,3,0,"Polybag",30,"Small","LEGO exclusive"
-40321,"Jet Fighter",2019,NA,NA,23,16,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40322,"Caterpillar",2019,NA,NA,48,8,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40323,"Viking Ship",2019,NA,NA,54,20,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40324,"Ladybird",2019,NA,NA,27,13,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40325,"Crane",2019,NA,"6+",64,21,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40326,"Frog",2019,NA,NA,39,23,NA,NA,3,0,"Polybag",NA,NA,"LEGO exclusive"
-40327,"Ice Cream Truck",2019,NA,NA,NA,19,NA,NA,3,0,"Polybag",NA,NA,"Not sold"
-40328,"Racing Car",2019,NA,"6+",50,30,NA,NA,3,0,"Polybag",NA,NA,"Not sold"
-40329,"Eagle",2019,NA,NA,56,33,NA,NA,3,0,"Polybag",NA,NA,"Not sold"
-40330,"UFO",2019,NA,NA,36,19,NA,NA,3,0,"Polybag",NA,NA,"Not sold"
-40331,"Wolf",2019,NA,NA,47,13,NA,NA,3,0,"Polybag",NA,NA,"Not sold"
-40332,"Penguin",2019,NA,NA,47,24,NA,NA,3,0,"Polybag",NA,NA,"Not sold"
 40342,"Ninjago Minifigure Pack",2019,"NINJAGO","6+",59,33,12.99,NA,3,4,"Blister pack",NA,"Small","LEGO exclusive"
 40343,"Spider-Man and the Museum Break-In",2019,"Marvel","8+",49,33,14.99,NA,3,3,"Blister pack",NA,"Small","LEGO exclusive"
 40344,"Summer Celebration Minifigure Pack",2019,"Minifigures","6+",45,35,12.99,NA,3,4,"Blister pack",70,"Small","LEGO exclusive"
-40368,"Xmas Accessories",2019,NA,"6+",32,23,NA,NA,3,1,"Polybag",30,NA,"LEGO exclusive"
 40372,"Police MF Accessory Set",2020,"Minifigures","6+",42,33,12.99,NA,3,4,"Blister pack",80,"Small","LEGO exclusive"
 40373,"Fairground Accessory Set",2020,"Minifigures","6+",51,35,12.99,NA,3,4,"Blister pack",80,"Small","LEGO exclusive"
 40375,"Sports Accessories",2020,"Xtra","6+",36,20,3.99,NA,3,0,"Polybag",20,"Small","LEGO exclusive"
 40376,"Botanical Accessories",2020,"Xtra","6+",32,17,3.99,NA,3,0,"Polybag",20,"Small","LEGO exclusive"
 40395,"Chinese Dragon",2020,NA,"6+",67,23,2.99,NA,3,0,"Polybag",NA,NA,"Not sold"
-40396,"Valentine Panda",2020,NA,NA,53,23,NA,NA,3,0,"Polybag",NA,NA,NA
-40397,"Koi Fish",2020,NA,NA,33,24,NA,NA,3,0,"Polybag",NA,NA,"Not sold"
-40398,"Easter Bunny",2020,NA,NA,43,24,NA,NA,3,0,"Polybag",NA,NA,"Not sold"
-40399,"Flowers and Watering Can",2020,NA,"6+",47,25,NA,NA,3,0,"Polybag",NA,NA,"Not sold"
 40418,"Falcon & Black Widow Team-Up",2020,"Marvel","8+",60,34,14.99,NA,3,3,"Blister pack",NA,"Small","LEGO exclusive"
-75522,"Mini Boost Droid Commander",2019,NA,NA,62,35,NA,NA,3,3,"Polybag",NA,NA,NA
 70685,"Spinjitzu Burst - Cole",2020,"NINJAGO","7+",48,31,9.99,NA,3,1,"Box",NA,"Small","Retail"
 70686,"Spinjitzu Burst - Kai",2020,NA,"7+",48,31,9.99,NA,3,1,"Box",NA,NA,"Retail"
 70687,"Spinjitzu Burst Lloyd",2020,"NINJAGO","7+",48,30,9.99,NA,3,1,"Box",NA,"Small","Retail"
-30380,"Kylo Ren's Shuttle",2018,NA,"6 - 12",33,15,NA,NA,4,0,"Polybag",30,NA,NA
-30499,"Robot/Vehicle free builds",2018,NA,"6+",56,30,NA,NA,4,0,"Polybag",NA,NA,"LEGO exclusive"
-40345,"Mars Exploration Minifigure Pack",2019,NA,"6+",44,36,NA,NA,4,4,"Blister pack",70,NA,"LEGO exclusive"
 40434,"Reindeer",2019,NA,"6-12",77,26,3.49,NA,4,0,"Polybag",40,NA,"LEGO exclusive"
 40187,"Flower Display",2018,NA,"7+",100,27,5.99,NA,5,0,"Box",NA,NA,"LEGO exclusive"
 40374,"Golden Zane Accessory Set ",2020,"NINJAGO","6+",73,31,12.99,NA,5,4,"Blister pack",NA,"Small","Retail"
@@ -973,74 +870,46 @@
 41435,"Stephanie's Jungle Play Cube",2020,"Friends","6+",41,38,9.99,NA,5,1,"Plastic canister",NA,"Small","Retail"
 41436,"Olivia's Jungle Play Cube",2020,"Friends","6+",51,42,9.99,NA,5,0,"Plastic canister",NA,"Small","Retail"
 41437,"Mia's Jungle Play Cube",2020,"Friends","6+",43,36,9.99,NA,5,0,"Plastic canister",NA,"Small","Retail"
-41438,"Emma's Jungle Play Cube",2020,NA,"6+",50,40,NA,NA,5,0,"Plastic canister",NA,NA,"Retail"
 30624,"Obi-Wan Kenobi - Collectable Minifigure",2019,"Star Wars","6+",12,10,3.99,NA,6,1,"Polybag",NA,"Small",NA
 30325,"My First Dinosaur",2018,"DUPLO","1½-3",7,6,3.49,NA,7,0,"Polybag",NA,"Large",NA
-10865,"Fun Creations",2018,"DUPLO","1½-5",70,52,NA,NA,9,0,"Box with handle",NA,"Large",NA
 40419,"Hogwarts Students Accessory Set",2020,"Harry Potter","6+",53,33,14.99,NA,9,4,"Blister pack",NA,"Small","LEGO exclusive"
 10884,"My First Balancing Animals",2019,"DUPLO","1½+",15,14,14.99,NA,9,0,"Box",NA,"Large","Retail"
 10930,"Bulldozer",2020,"DUPLO","2+",10,10,9.99,NA,12,1,"Box",NA,"Large","Retail"
 10887,"Creative Fun",2019,"DUPLO","1½+",120,70,39.99,NA,13,1,"Box",NA,"Large","Retail"
-41775,"Rainbow Unikitty",2018,"Minifigures","5-12",15,NA,NA,NA,15,1,"Foil pack",NA,"Small","Retail"
 10931,"Truck & Tracked Excavator",2020,"DUPLO","2+",20,19,19.99,NA,16,2,"Box",NA,"Large","Retail"
-71025,"Video Game Champ",2019,"Minifigures","5+",8,NA,NA,NA,17,1,"Foil pack",NA,"Small","Retail"
 71026,"Mister Miracle",2020,"DC","5+",9,NA,4.99,NA,19,1,"Foil pack",NA,"Small","Retail"
 71027,"Piñata Boy",2020,"Minifigures","5+",8,NA,4.99,NA,19,1,"Foil pack",NA,"Small","Retail"
 10919,"Batcave",2020,"Batman","2+",33,25,29.99,NA,20,3,"Box",NA,"Small","Retail"
 10922,"Ariel's Undersea Castle",2020,"Disney","2+",35,27,29.99,NA,20,1,"Box",NA,"Small","Retail"
 10934,"Creative Animals",2020,"DUPLO","1½+",175,89,59.99,NA,20,0,"Box",NA,"Large","Retail"
-71021,"Elephant Girl",2018,"Minifigures","5+",7,NA,NA,NA,20,1,"Foil pack",NA,"Small","Retail"
-71024,"Vintage Mickey",2019,"Disney","5+",7,NA,NA,NA,20,1,"Foil pack",NA,"Small","Retail"
 71028,"Harry Potter",2020,"Harry Potter","5+",8,NA,4.99,NA,20,1,"Foil pack",NA,"Small","Retail"
-71020,"Friends are Family Harley Quinn",2018,"Minifigures","5+",8,NA,NA,NA,22,1,"Foil pack",NA,"Small","Retail"
-71023,"Awesome Remix Emmet",2019,"THE LEGO MOVIE 2","5+",7,NA,NA,NA,23,1,"Foil pack",NA,"Small","Retail"
-40360,"Name Sign",2019,NA,NA,91,30,NA,NA,24,0,"Box",NA,NA,"LEGO exclusive"
-40388,"Mini-Doll Dress-Up Kit",2018,"Disney","6+",80,48,NA,NA,24,0,"Box",NA,"Small","LEGO exclusive"
-71022,"Harry Potter",2018,"Harry Potter","5+",8,NA,NA,NA,24,1,"Foil pack",NA,"Small","Retail"
 30542,"Cute Pug",2018,"Creator 3-in-1","6-12",68,32,3.99,NA,28,0,"Polybag",NA,"Small","Retail - limited"
-40314,"Dr. Fox Magnifying Machine ",2018,"Unikitty!","6+",76,39,NA,NA,28,0,"Box",NA,"Small","LEGO exclusive"
 10932,"Wrecking Ball Demolition",2020,"DUPLO","2+",56,41,59.99,NA,32,3,"Box",NA,"Large","Retail"
 40273,"Thanksgiving Turkey",2018,"BrickHeadz","10+",114,48,9.99,NA,32,0,"Box",140,"Small","LEGO exclusive"
-40307,"Castle Interior Kit",2018,NA,"6+",115,62,NA,NA,32,0,"Box",NA,NA,NA
 40382,"Birthday Set",2020,NA,"7+",141,43,12.99,NA,32,1,"Box",180,NA,"LEGO exclusive"
-41634,"Emmet",2019,NA,"10+",113,43,NA,NA,32,0,"Box",NA,NA,"Retail - limited"
-41636,"Benny",2019,NA,"10+",103,46,NA,NA,32,0,"Box",NA,NA,"Retail - limited"
 10924,"Lightning McQueen's Race Day",2020,"Disney","2+",42,32,29.99,NA,36,0,"Box",NA,"Small","Retail"
 40186,"Year of the Pig",2019,NA,"7+",153,48,9.99,NA,36,0,"Box",170,NA,"LEGO exclusive"
 40235,"Year of the Dog",2018,NA,"7+",156,61,9.99,NA,36,0,"Box",170,NA,"LEGO exclusive"
-40271,"Easter Bunny",2018,"BrickHeadz","10+",126,56,NA,NA,36,0,"Box",NA,"Small","LEGO exclusive"
 40371,"Easter Egg",2020,NA,"8+",239,56,12.99,NA,36,0,"Box",NA,NA,"LEGO exclusive"
 40377,"Donald Duck",2020,"Disney","10+",90,42,9.99,NA,36,0,"Box",NA,"Small","Retail - limited"
-41635,"Wyldstyle",2019,NA,"10+",134,48,NA,NA,36,0,"Box",NA,NA,"Retail - limited"
 10748,"Emma's Pet Party",2018,"Friends","4-7",67,50,9.99,NA,36,1,"Box",NA,"Small","Retail"
 40197,"Wedding Favour Set 2018",2018,NA,"7+",132,61,9.99,NA,40,2,"Box",NA,NA,"LEGO exclusive"
-40270,"Valentine's Bee",2018,"BrickHeadz","10+",140,59,NA,NA,40,0,"Box",NA,"Small","LEGO exclusive"
-41637,"Sweet Mayhem",2019,NA,"10+",137,60,NA,NA,40,0,"Box",NA,NA,"Retail - limited"
 41599,"Wonder Woman",2018,"BrickHeadz","10+",143,54,9.99,NA,40,0,"Box",NA,"Small","Retail"
 40350,"Easter Chick",2019,"BrickHeadz","10+",120,50,9.99,NA,44,0,"Box",140,"Small","LEGO exclusive"
-40351,"Halloween Ghost",2019,NA,"10+",136,54,NA,NA,44,0,"Box",160,NA,"LEGO exclusive"
 40361,"Olaf's Traveling Sleigh",2019,"Disney","6+",97,52,12.99,NA,44,1,"Box",NA,"Small","LEGO exclusive"
 40379,"Valentine's Bear",2020,"BrickHeadz","10+",150,65,9.99,NA,44,0,"Box",150,"Small","Retail - limited"
 40409,"Hot Rod",2020,NA,"8+",142,66,12.99,NA,44,2,"Box",150,NA,"Not sold"
 40436,"Lucky Cat",2020,"BrickHeadz","10+",134,71,9.99,NA,44,0,"Box",140,"Small","Retail - limited"
-41624,"Mickey Mouse",2018,"BrickHeadz","10+",109,51,NA,NA,45,0,"Box",NA,"Small","Retail"
-41625,"Minnie Mouse",2018,"BrickHeadz","10+",129,59,NA,NA,45,0,"Box",NA,"Small","Retail"
-40272,"Halloween Witch",2018,NA,"10+",151,61,NA,NA,48,0,"Box",160,NA,"LEGO exclusive"
 40293,"Christmas Carousel",2018,NA,"7+",251,73,14.99,NA,48,0,"Box",NA,NA,"Promotional"
 40336,"Newbury Juice Bar",2019,NA,"10+",127,60,12.99,NA,48,2,"Box",160,NA,"Promotional"
-40347,"LEGOLAND Driving School",2019,NA,"7+",209,90,NA,NA,48,0,"Box",220,NA,"LEGOLAND exclusive"
 40348,"Birthday Clown",2019,"BrickHeadz","10+",150,77,9.99,NA,48,0,"Box",160,"Small","LEGO exclusive"
 40349,"Valentine's Puppy",2019,"BrickHeadz","10+",147,60,9.99,NA,48,0,"Box",160,"Small","LEGO exclusive"
 40354,"Dragon Dance Guy",2019,"BrickHeadz","10+",170,72,9.99,NA,48,0,"Box",160,"Small","LEGO exclusive"
-40358,"Bean There, Donut That",2018,NA,"7+",146,86,NA,NA,48,4,"Box",NA,NA,"Retail - limited"
 40359,"LEGO Store Picture Frame",2019,NA,"7+",170,63,14.99,NA,48,0,"Box",310,NA,"LEGO exclusive"
 40367,"Lady Liberty",2019,"BrickHeadz","10+",153,43,9.99,NA,48,0,"Box",NA,"Small",NA
 40380,"Easter Sheep",2020,"BrickHeadz","10+",192,57,9.99,NA,48,0,"Box",160,"Small","Retail - limited"
 40383,"Wedding Bride",2020,"BrickHeadz","10+",306,101,12.99,NA,48,0,"Box",NA,"Small","Retail - limited"
 40384,"Wedding Groom",2020,"BrickHeadz","10+",255,107,12.99,NA,48,0,"Box",NA,"Small","Retail - limited"
-40389,"Photo Frame",2018,NA,"6+",171,75,NA,NA,48,0,"Box",NA,NA,"LEGOLAND exclusive"
-75512,"Millennium Falcon Cockpit",2018,NA,NA,203,74,NA,NA,48,2,"Box",NA,NA,"Promotional"
-40188,"Pencil Pot",2018,NA,"7+",187,79,NA,NA,49,1,"Box",280,NA,"Retail - limited"
 10402,"Fun Future",2018,"Classic","5-99",186,95,9.99,NA,49,1,"Box",NA,"Small","Retail"
 40335,"Space Rocket Ride",2019,NA,"8+",154,76,12.99,NA,52,1,"Box",180,NA,"LEGO exclusive"
 40370,"LEGO® Trains 40th Anniversary Set",2020,NA,"9+",188,73,19.99,NA,52,1,"Box",330,NA,"LEGO exclusive"
@@ -1049,23 +918,10 @@
 10933,"Tower Crane & Construction",2020,"DUPLO","2+",123,72,129.99,NA,56,5,"Box",NA,"Large","Retail"
 40291,"Creative Personalities",2018,NA,"8+",307,91,19.99,NA,56,2,"Box",400,NA,"Promotional"
 40334,"Avengers Tower",2019,NA,"10+",211,74,19.99,NA,56,1,"Box",NA,NA,"LEGO exclusive"
-40352,"Thanksgiving Scarecrow",2019,NA,"10+",177,69,NA,NA,56,0,"Box",170,NA,"Retail - limited"
 40355,"Year of the Rat",2020,NA,"7+",162,58,9.99,NA,56,0,"Box",160,NA,"LEGO exclusive"
-41629,"Boba Fett",2018,"Star Wars","10+",161,75,NA,NA,56,0,"Box",NA,"Small","Retail"
 70833,"Lucy's Builder Box!",2019,"THE LEGO MOVIE 2","5+",141,71,29.99,NA,56,2,"Plastic box",NA,"Small","Retail"
-75996,"Aquaman and Storm",2018,NA,NA,197,85,NA,NA,56,1,"Box",NA,NA,"Promotional"
-75997,"Ant-Man and the Wasp",2018,NA,NA,218,76,NA,NA,56,1,"Box",NA,NA,NA
 70832,"Emmet's Builder Box!",2019,"THE LEGO MOVIE 2","5+",125,76,29.99,NA,56,1,"Plastic box",NA,"Small","Retail"
-40199,"Billund Airport ",2018,NA,NA,286,68,NA,NA,60,0,"Box",NA,NA,"Retail - limited"
-40306,"LEGOLAND Castle",2018,NA,"8+",220,62,NA,NA,60,1,"Box",NA,NA,"LEGOLAND exclusive"
-41612,"Steve & Creeper",2018,"BrickHeadz","10+",160,64,NA,NA,61,0,"Box",NA,"Small",NA
-41613,"Mr. Incredible & Frozone",2018,"BrickHeadz","10+",160,59,NA,NA,61,0,"Box",NA,"Small","Retail"
-40198,"LEGO Ludo Game",2018,NA,"7+",389,114,NA,NA,64,8,"Box",750,NA,"LEGO exclusive"
-41626,"Groot & Rocket",2018,"BrickHeadz","10+",189,79,NA,NA,64,0,"Box",NA,"Small","Retail"
-41627,"Luke Skywalker & Yoda",2018,"Star Wars","10+",215,81,NA,NA,64,0,"Box",NA,"Small","Retail"
-41632,"Homer Simpson & Krusty the Clown",2018,"BrickHeadz","10+",215,89,NA,NA,64,0,"Box",NA,"Small","Retail"
 76109,"Quantum Realm Explorers",2018,"Marvel","7-12",200,100,19.99,NA,64,3,"Box",NA,"Small","Retail"
-41631,"Newt Scamander & Gellert Grindelwald",2018,"BrickHeadz","10+",247,75,NA,NA,68,0,"Box",NA,"Small","Retail"
 43183,"Moana's Island Home",2020,"Disney","6+",202,121,29.99,NA,68,1,"Box",NA,"Small","Retail"
 60230,"People Pack - Space Research and Development",2019,"City","5+",209,146,39.99,NA,68,15,"Box",150,"Small","Retail"
 71718,"Wu's Battle Dragon",2020,"NINJAGO","7+",321,109,19.99,NA,68,2,"Box",NA,"Small","Retail"
@@ -1073,25 +929,17 @@
 10717,"Bricks Bricks Bricks",2018,"Classic","4-99",1500,327,59.99,NA,69,0,"Box",NA,"Small","Retail - limited"
 41611,"Marty McFly & Doc Brown",2018,"BrickHeadz","10+",240,73,19.99,NA,69,0,"Box",NA,"Small",NA
 40289,"Diagon Alley",2018,"Harry Potter","10+",374,116,19.99,NA,72,1,"Box",NA,"Small","Promotional"
-40393,"LEGOLAND Fire Academy",2020,NA,"7+",221,90,NA,NA,72,0,"Box",NA,NA,NA
-41630,"Jack Skellington & Sally",2018,"BrickHeadz","10+",193,65,NA,NA,72,0,"Box",NA,"Small",NA
-76095,"Black Manta Strike ",2018,"DC","7-12",235,105,NA,NA,72,3,"Box",NA,"Small",NA
-77902,"Captain Marvel and the Asis",2019,NA,NA,271,116,NA,NA,72,2,"Box",NA,NA,"Promotional"
-81000,"Koi",2019,NA,NA,293,NA,NA,NA,72,0,"Box",NA,NA,NA
 75931,"Dilophosaurus Outpost Attack",2018,"Jurassic World","7-12",289,124,39.99,NA,72,3,"Box",NA,"Small","Retail - limited"
 41621,"Ron Weasley & Albus Dumbledore",2018,"BrickHeadz","10+",245,82,19.99,NA,73,0,"Box",NA,"Small","Retail - limited"
 40333,"Battle of Hoth - 20th Anniversary Edition",2019,"Star Wars","6-12",195,77,14.99,NA,76,0,"Box",NA,"Small","Retail - limited"
 40378,"Goofy & Pluto",2020,"Disney","10+",214,94,14.99,NA,76,0,"Box",NA,"Small","Retail - limited"
 43182,"Mulan's Training Grounds",2020,"Disney","6+",157,94,29.99,NA,76,1,"Box",NA,"Small","Retail"
-75227,"Darth Vader Bust",2019,NA,"14+",327,95,NA,NA,76,0,"Box",NA,NA,"Retail - limited"
 41373,"Funny Octopus Ride",2019,"Friends","7+",324,145,39.99,NA,76,2,"Box",NA,"Small","Retail"
 75232,"Kylo Ren & Sith Trooper",2019,"Star Wars","10+",240,72,19.99,NA,76,0,"Box",NA,"Small","Retail"
 41614,"Owen & Blue",2018,"BrickHeadz","10+",234,82,19.99,NA,77,0,"Box",NA,"Small",NA
 40338,"Christmas Tree",2019,NA,"8+",392,80,19.99,NA,80,0,"Box",390,NA,"LEGO exclusive"
 76162,"Black Widow's Helicopter Chase",2020,"Marvel","7+",271,125,29.99,NA,80,3,"Box",NA,"Small","Retail - limited"
 76163,"Venom Crawler",2020,"Marvel","8+",413,132,29.99,NA,80,3,NA,NA,"Small",NA
-77901,"Sith Trooper Bust",2019,NA,"9+",484,96,NA,NA,80,0,"Box",NA,NA,"Promotional"
-80102,"Dragon Dance",2019,NA,"9+",622,109,NA,NA,80,5,"Box",NA,NA,"Retail - limited"
 75283,"Armored Assault Tank (AAT)",2020,"Star Wars","7+",286,121,39.99,NA,80,3,"Box",NA,"Small","Retail"
 76127,"Captain Marvel and The Skrull Attack",2019,"Marvel","7+",307,126,29.99,NA,80,3,"Box",NA,"Small","Retail"
 40274,"Mr. & Mrs. Claus",2018,"BrickHeadz","10+",341,109,19.99,NA,84,0,"Box",300,"Small","LEGO exclusive"
@@ -1099,37 +947,26 @@
 40305,"LEGO Brand Store",2018,NA,"8+",362,128,24.99,NA,84,2,"Box",510,NA,"LEGO exclusive"
 40407,"Death Star II Battle",2020,"Star Wars","8+",235,72,14.99,NA,84,0,"Box",NA,"Small","LEGO exclusive"
 40433,"1989 Batmobile",2019,NA,"7+",366,122,29.99,NA,84,0,"Box",NA,NA,NA
-60273,"Elite Police Driller Chase",2020,NA,"5+",179,87,NA,NA,84,2,"Box",370,NA,"Retail"
 75280,"501st Legion Clone Troopers",2020,"Star Wars","7+",285,125,29.99,NA,84,3,"Box",NA,"Small",NA
-77903,"The Dark Knight of Gotham City",2019,NA,NA,427,107,NA,NA,84,1,"Box",NA,NA,NA
 75203,"Hoth Medical Chamber",2018,"Star Wars","7-12",255,120,29.99,NA,84,4,"Box",NA,"Small","Retail"
 75204,"Sandspeeder",2018,"Star Wars","7-12",278,110,29.99,NA,84,2,"Box",NA,"Small","Retail - limited"
-41628,"Princess Leia Organa",2018,"Star Wars","10+",124,48,NA,NA,88,0,"Box",NA,"Small","Retail"
-70834,"MetalBeard's Heavy Metal Motor Trike!",2019,"THE LEGO MOVIE 2","7+",461,188,NA,NA,88,2,"Box",NA,"Small","Retail"
 11003,"Bricks and Eyes ",2019,"Classic","4+",451,171,29.99,NA,88,0,NA,NA,"Small",NA
 40290,"60 Years of the LEGO Brick",2018,NA,"8+",421,145,24.99,NA,92,0,"Box",NA,NA,"LEGO exclusive"
-60272,"Elite Police Boat Transport",2020,NA,"5+",166,107,NA,NA,92,0,"Box",380,NA,"Retail"
 41398,"Stephanie's House",2020,"Friends","4+",170,116,39.99,NA,92,3,"Box",NA,"Small","Retail"
 70842,"Emmet's Triple-Decker Couch Mech",2019,"THE LEGO MOVIE 2","8+",312,98,29.99,NA,92,3,"Box",NA,"Small","Retail"
 71717,"Journey to the Skull Dungeons",2020,"NINJAGO","7+",401,164,29.99,NA,92,4,"Box",NA,"Small","Retail"
 75294,"Bespin Duel",2020,"Star Wars","18+",295,121,39.99,NA,96,0,"Box",NA,"Small","Retail - limited"
 80006,"White Dragon Horse Bike",2020,"Monkie Kid","6+",259,134,34.99,NA,96,3,NA,NA,"Small",NA
 40353,"Reindeer, Elf and Elfie",2019,"BrickHeadz","10+",281,116,19.99,NA,97,0,"Box",280,"Small","LEGO exclusive"
-41343,"Heartlake City Airplane Tour",2018,"Friends","6-12",323,176,NA,NA,100,1,"Box",NA,"Small","Retail"
-60274,"Elite Police Lighthouse Capture",2020,NA,"5+",189,108,NA,NA,100,2,"Box",380,NA,"Retail"
 71703,"Storm Fighter Battle",2020,"NINJAGO","4+",165,96,29.99,NA,100,3,"Box",NA,"Small","Retail"
 11011,"Bricks and Animals",2020,"Classic","4+",1500,339,59.99,NA,101,0,"Box",NA,"Small","Retail"
-21055,"Burj Khalifa",2019,NA,NA,333,NA,NA,NA,108,0,"Box",NA,NA,"Retail - limited"
 41350,"Spinning Brushes Car Wash",2018,"Friends","7-12",325,174,29.99,NA,108,2,"Box",NA,"Small","Retail"
 60260,"Air Race",2020,"City","5+",140,84,39.99,NA,108,3,"Box",NA,"Small","Retail"
 11009,"Bricks and Lights",2020,"Classic","5+",441,173,29.99,NA,109,0,"Box",NA,"Small","Retail"
 40411,"Creative Fun 12-in-1",2020,NA,"7+",240,113,19.99,NA,112,0,"Box",330,NA,"Not sold"
 75956,"Quidditch Match",2018,"Harry Potter","7-14",500,205,39.99,NA,112,6,"Box",NA,"Small","Retail"
-80103,"Dragon Boat Race",2019,NA,"8+",643,221,NA,NA,116,15,"Box",NA,NA,"Retail - limited"
-41456,"Unikingdom Fairground Fun",2018,"Unikitty!","7-12",515,254,NA,NA,124,6,"Box",NA,"Small","Retail"
 80007,"Iron Bull Tank",2020,"Monkie Kid","7+",430,160,49.99,NA,124,3,NA,NA,"Small",NA
 80104,"Lion Dance",2020,NA,"8+",882,174,79.99,NA,124,8,"Box",NA,NA,"Retail"
-80101,"Chinese New Year's Eve Dinner",2019,NA,"8+",615,167,NA,NA,128,6,"Box",NA,NA,"Retail - limited"
 41256,"Rainbow Caterbus",2020,"Trolls World Tour","6+",395,170,39.99,NA,132,5,"Box",NA,"Small","Retail"
 71704,"Kai Fighter",2020,"NINJAGO","8+",513,174,39.99,NA,132,0,"Box",NA,"Small","Retail"
 75932,"Jurassic Park Velociraptor Chase ",2018,"Jurassic World","6-12",360,195,39.99,NA,132,4,"Box",NA,"Small","Retail - limited"
@@ -1139,16 +976,13 @@
 75291,"Death Star Final Duel",2020,"Star Wars","9+",775,241,99.99,NA,140,4,"Box",NA,"Small","Retail"
 75293,"Resistance I-TS Transport",2020,"Star Wars","9+",932,215,99.99,NA,140,0,"Box",NA,"Small","Retail"
 11717,"Bricks Bricks Plates",2020,"Classic","4-99",1504,332,69.99,NA,144,0,"Box",NA,"Small","Retail"
-75188,"Resistance Bomber (Finch Dallow version)",2018,"Star Wars","9-14",780,252,NA,NA,144,5,"Box",1420,"Small","Retail"
 75274,"TIE Fighter Pilot",2020,"Star Wars","18+",724,155,59.99,NA,148,0,"Box",NA,"Small",NA
 75979,"Hedwig",2020,"Harry Potter","10+",630,166,39.99,NA,148,1,"Box",NA,"Small","Retail"
 31078,"Tree House Treasures ",2018,"Creator 3-in-1","7-12",260,119,29.99,NA,152,2,"Box",NA,"Small",NA
-60175,"Mountain River Heist",2018,"City","5-12",387,210,NA,NA,156,4,"Box",NA,"Small","Retail"
 80008,"Monkie Kid's Cloud Jet",2020,"Monkie Kid","8+",390,199,59.99,NA,168,4,NA,NA,"Small",NA
 71719,"Zane's Mino Creature",2020,"NINJAGO","8+",616,202,49.99,NA,172,4,"Box",NA,"Small","Retail"
 10262,"James Bond Aston Martin DB5",2018,"Creator Expert","16+",1295,310,149.99,NA,173,0,"Box",NA,"Small","LEGO exclusive"
 75980,"Attack on The Burrow",2020,"Harry Potter","9+",1047,383,99.99,NA,180,8,"Box",NA,"Small","Retail"
-40366,"LEGO House Dinosaurs",2019,NA,"10+",864,230,NA,NA,188,0,"Box",NA,NA,"LEGO exclusive"
 60270,"Police Brick Box",2020,"City","5+",301,162,39.99,NA,188,4,"Tub",1000,"Small","Retail"
 31098,"Outback Cabin",2019,"Creator 3-in-1","7+",305,141,29.99,NA,196,2,"Box",540,"Small","Retail"
 80010,"Demon Bull King",2020,"Monkie Kid","9+",585,264,89.99,NA,200,3,NA,NA,"Small",NA
@@ -1161,7 +995,6 @@
 75181,"Y-wing Starfighter",2018,"Star Wars","14+",1967,359,199.99,NA,220,2,"Box",NA,"Small","LEGO exclusive"
 43179,"Mickey Mouse and Minnie Mouse",2020,"Disney","18+",1739,420,179.99,NA,236,0,"Box",NA,"Small","LEGO exclusive"
 80011,"Red Son's Inferno Truck",2020,"Monkie Kid","9+",1111,350,119.99,NA,244,5,NA,NA,"Small",NA
-40346,"LEGOLAND",2019,NA,"8+",1336,500,NA,NA,256,11,"Box",NA,NA,"LEGOLAND exclusive"
 71722,"Skull Sorcerer's Dungeons",2020,"NINJAGO","9+",1171,425,99.99,NA,256,8,"Box",NA,"Small","Retail"
 80012,"Monkey King Warrior Mech",2020,"Monkie Kid","10+",975,435,149.99,NA,272,6,NA,NA,"Small",NA
 10273,"Haunted House",2020,"Creator Expert","18+",3231,467,249.99,NA,312,8,"Box",NA,"Small","Retail - limited"
@@ -1176,84 +1009,30 @@
 80013,"Monkie Kid's Team Secret HQ",2020,"Monkie Kid","10+",1105,622,169.99,NA,556,7,NA,NA,"Small",NA
 21323,"Grand Piano",2020,"Ideas","18+",3662,345,349.99,NA,564,0,"Box",NA,"Small","Retail - limited"
 42115,"Lamborghini Sián FKP 37",2020,"Technic","18+",3696,293,379.99,NA,657,0,"Box",NA,"Small","Retail"
-10275,"Elf Club House",2020,NA,"18+",1197,NA,NA,NA,NA,0,"Box",NA,NA,"LEGO exclusive"
-11915,"NINJAGO Build Your Own Adventure parts",2018,NA,NA,NA,NA,NA,NA,NA,1,"Polybag",NA,NA,"Retail"
-11917,"Animal Atlas parts",2018,NA,"6+",60,36,NA,NA,NA,0,"Polybag",NA,NA,NA
-11920,"Parts for Star Wars: Build Your Own Adventure Galactic Missions",2019,NA,NA,66,34,NA,NA,NA,1,"Polybag",NA,NA,NA
-11923,"Parts for Harry Potter: Build Your Own Adventure",2019,NA,"6+",101,NA,NA,NA,NA,1,"Polybag",NA,NA,NA
-11926,"Parts for Wooden Minifigure",2019,NA,NA,29,21,NA,NA,NA,0,"Polybag",NA,NA,NA
-21038,"Las Vegas",2018,NA,"12+",487,NA,NA,NA,NA,0,"Box",NA,NA,"Retail"
 30342,"Lamborghini Huracán Super Trofeo EVO",2020,"Speed Champions","6+",70,32,4.99,NA,NA,0,"Polybag",NA,"Small","Retail - limited"
-30370,"Diver",2020,NA,"5+",22,20,NA,NA,NA,1,"Polybag",30,NA,"Retail - limited"
 30385,"Super Mushroom Surprise",2020,NA,"6+",18,15,4.99,NA,NA,0,"Polybag",NA,NA,"Retail - limited"
-30420,"Harry Potter and Hedwig: Owl Delivery",2020,NA,NA,31,19,NA,NA,NA,1,"Polybag",NA,NA,"LEGO exclusive"
 30541,"Build a Duck",2018,NA,"6+",10,6,1.99,NA,NA,0,"Polybag",NA,NA,"Retail - limited"
 30576,"Christmas Tree",2020,NA,"6+",70,27,4.99,NA,NA,0,"Polybag",NA,NA,NA
-30614,"Lex Luthor",2018,NA,NA,4,4,NA,NA,NA,1,"Polybag",NA,NA,NA
-30617,"Green Lantern Jessica Cruz",2018,NA,NA,4,4,NA,NA,NA,1,"Polybag",NA,NA,"Promotional"
-30623,"SHAZAM!",2019,NA,"6+",5,5,NA,NA,NA,1,"Polybag",NA,NA,NA
 31199,"Marvel Studios Iron Man",2020,"LEGO Art","18+",3167,35,119.99,NA,NA,0,"Box",NA,"Small","LEGO exclusive"
-40303,"Vehicle Set",2018,NA,"6+",79,43,NA,NA,NA,0,"Polybag",80,NA,"LEGO exclusive"
 40304,"Numbers",2018,NA,"1½+",11,10,5.99,NA,NA,0,"Polybag",NA,NA,NA
 40309,"Food Accessories",2018,"Xtra","6+",30,16,3.99,NA,NA,0,"Polybag",20,"Small","LEGO exclusive"
 40310,"Botanical Accessories",2018,"Xtra","6+",24,11,3.99,NA,NA,0,"Polybag",20,"Small","LEGO exclusive"
 40313,"Bicycles",2018,"Xtra","6+",21,13,3.99,NA,NA,0,"Polybag",10,"Small","LEGO exclusive"
-40316,"Geoffrey",2018,NA,NA,NA,NA,NA,NA,NA,0,"Box",NA,NA,NA
-40318,"MSC Cruises",2019,NA,"8+",181,59,NA,NA,NA,0,"Box",NA,NA,"Promotional"
 40341,"Sea Accessories",2019,"Xtra","6+",24,22,3.99,NA,NA,0,"Polybag",30,"Small","LEGO exclusive"
-40356,"LEGO House Exclusive Minifigure 2019",2019,NA,"4+",7,7,NA,NA,NA,1,"Other",NA,NA,"LEGO exclusive"
-40357,"BYGGLEK",2020,NA,NA,201,NA,NA,NA,NA,0,"Box",NA,NA,"Retail - limited"
 40381,"Monkey King",2020,"BrickHeadz","10+",175,56,9.99,NA,NA,0,"Box",NA,"Small","LEGO exclusive"
 40386,"Batman",2020,"LEGO Brick Sketches","8+",115,54,19.99,NA,NA,0,"Box",NA,"Small","LEGO exclusive"
 40391,"First Order Stormtrooper",2020,"Star Wars","8+",151,55,19.99,NA,NA,0,"Box",NA,"Small","LEGO exclusive"
-40394,"LEGO House Chef",2020,NA,NA,NA,6,NA,NA,NA,0,"Polybag",NA,NA,"Not sold"
-40400,"Bird in a tree",2020,NA,NA,NA,22,NA,NA,NA,0,"Polybag",NA,NA,"Not sold"
-40401,"Dog and Cat Friendship Day",2020,NA,NA,NA,30,NA,NA,NA,0,"Polybag",NA,NA,"Not sold"
-40402,"Youth Day Kids",2020,NA,NA,NA,36,NA,NA,NA,0,"Polybag",NA,NA,"Not sold"
-40403,"Literacy Day Unicorn",2020,NA,NA,NA,NA,NA,NA,NA,0,"Polybag",NA,NA,"Not sold"
-40404,"Teachers' Day",2020,NA,NA,NA,NA,NA,NA,NA,0,"Polybag",NA,NA,"Not sold"
 40412,"Hagrid & Buckbeak",2020,"Harry Potter","10+",270,89,19.99,NA,NA,0,"Box",NA,"Small","LEGO exclusive"
-40414,"Monty Mole & Super Mushroom",2020,NA,NA,163,83,NA,NA,NA,2,"Box",NA,NA,"LEGO exclusive"
 40422,"Frankenstein",2020,"BrickHeadz","10+",108,NA,9.99,NA,NA,0,"Box",NA,"Small","Retail"
 40423,"Halloween Hayride",2020,NA,"7+",148,77,12.99,NA,NA,0,"Box",NA,NA,"LEGO exclusive"
 40424,"Winter Snowball Fight",2020,NA,"7+",149,78,12.99,NA,NA,0,"Box",NA,NA,"LEGO exclusive"
 40428,"The Joker",2020,"LEGO Brick Sketches","8+",170,71,19.99,NA,NA,0,"Box",NA,"Small","LEGO exclusive"
-40429,"Ninjago World",2020,NA,NA,440,138,NA,NA,NA,4,"Box",NA,NA,"LEGOLAND exclusive"
 40431,"BB-8",2020,"Star Wars","8+",171,68,19.99,NA,NA,0,"Box",NA,"Small","LEGO exclusive"
-40432,"Rebuild the World minifigure",2019,NA,NA,NA,6,NA,NA,NA,0,NA,NA,NA,NA
-40438,"Extra Dots - Levi Jeans Confetti Bag",2020,NA,NA,110,NA,NA,NA,NA,0,"Foil pack",NA,NA,NA
-40474,"Build your own Monkey King",2020,NA,"6+",24,18,NA,NA,NA,0,"Polybag",NA,NA,NA
-40501,"The Wooden Duck",2020,NA,"10+",621,163,NA,NA,NA,0,"Box",NA,NA,"LEGO exclusive"
-41410,"Andrea's Summer Play Cube",2020,NA,"6+",43,39,NA,NA,NA,0,"Plastic canister",NA,NA,"Retail"
-41411,"Stephanie's Summer Play Cube",2020,NA,"6+",47,37,NA,NA,NA,0,"Plastic canister",NA,NA,"Retail"
-41412,"Olivia's Summer Play Cube",2020,NA,"6+",48,39,NA,NA,NA,0,"Plastic canister",NA,NA,"Retail"
-41413,"Mia's Summer Play Cube",2020,NA,"6+",50,40,NA,NA,NA,0,"Plastic canister",NA,NA,"Retail"
-41414,"Emma's Summer Play Cube",2020,NA,NA,NA,45,NA,NA,NA,0,NA,NA,NA,NA
 41420,"Friends Advent Calendar",2020,"Friends","6+",236,163,29.99,NA,NA,0,"Box",NA,"Small","Retail"
-41909,"Mermaid Vibes Bracelets",2020,NA,NA,NA,NA,NA,NA,NA,0,"Polybag",NA,NA,NA
-41910,"Ice Cream Besties Bracelets",2020,NA,NA,NA,NA,NA,NA,NA,0,"Polybag",NA,NA,NA
-41918,"Adventure Bracelets",2020,NA,NA,NA,NA,NA,NA,NA,0,"Polybag",NA,NA,NA
-42113,"Bell-Boeing V-22 Osprey",2020,NA,"11+",1636,167,NA,NA,NA,0,"Box",NA,NA,"Retail"
 45025,"Coding Express",2018,"LEGO Education","2-5",234,109,198.95,NA,NA,6,"Box",NA,"Small","Educational"
 45026,"Tubes",2020,"LEGO Education","3-6",150,49,139.95,NA,NA,0,"Box",NA,"Small","Educational"
-45027,"Letters",2020,NA,"3 - 6",130,33,NA,NA,NA,0,"Box",NA,NA,"Educational"
 45028,"My XL World",2020,"LEGO Education","2-6",480,109,239.95,NA,NA,0,"Box",NA,"Small","Educational"
-45029,"Animals",2020,NA,NA,NA,59,NA,NA,NA,0,NA,NA,NA,NA
-45030,"People",2020,NA,NA,NA,44,NA,NA,NA,0,NA,NA,NA,NA
-45601,"Large Hub",2020,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA
-45602,"Large Angular Motor",2020,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA
-45603,"Medium Angular Motor",2020,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA
-45604,"Distance Sensor",2020,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA
-45605,"Colour Sensor",2020,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA
-45606,"Force Sensor",2020,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA
-45610,"Large hub battery",2020,NA,NA,1,1,NA,NA,NA,0,NA,NA,NA,NA
 45680,"Expansion Set",2020,"LEGO Education","10+",603,103,99.95,NA,NA,0,"Box",NA,"Small","Educational"
-45806,"FIRST LEGO League (FLL) Challenge 2018 - Into Orbit",2018,NA,NA,NA,338,NA,NA,NA,2,"Box",NA,NA,"Educational"
-45807,"Mission Moon",2018,NA,NA,693,203,NA,NA,NA,0,"Box",NA,NA,"Not sold"
-45813,"Challenge Set 2020",2020,NA,NA,NA,229,NA,NA,NA,0,NA,NA,NA,NA
-45814,"Explore Set",2020,NA,NA,NA,216,NA,NA,NA,0,"Box",NA,NA,"Not sold"
-45815,"Discover Set",2020,NA,NA,NA,23,NA,NA,NA,0,"Box",NA,NA,"Not sold"
-51515,"Robot Inventor",2020,NA,"10+",949,NA,NA,NA,NA,0,"Box",NA,NA,"Retail - limited"
 60268,"City Advent Calendar",2020,"City","5+",342,183,29.99,NA,NA,0,"Box",NA,"Small","Retail"
 60271,"Main Square",2020,"City","6+",1517,510,199.99,NA,NA,0,"Box",NA,"Small","LEGO exclusive"
 71361,"Paragoomba",2020,"LEGO Super Mario","6+",23,NA,4.99,NA,NA,0,"Foil pack",NA,"Small","Retail"
@@ -1261,13 +1040,8 @@
 71377,"King Boo and the Haunted Yard",2020,"LEGO Super Mario","8+",431,144,49.99,NA,NA,3,"Box",NA,"Small","Retail - limited"
 75279,"Star Wars Advent Calendar",2020,"Star Wars","6+",311,185,39.99,NA,NA,0,"Box",NA,"Small","Retail"
 75290,"Mos Eisley Cantina",2020,"Star Wars","18+",3187,NA,349.99,NA,NA,0,"Box",NA,"Small","LEGO exclusive"
-75318,"The Child",2020,NA,"10+",NA,NA,NA,NA,NA,0,"Box",NA,NA,"Retail"
-75546,"Minions in Gru's Lab",2020,NA,NA,87,NA,NA,NA,NA,0,"Box",NA,NA,"Retail"
-75547,"Minion Pilot in Training",2020,NA,NA,119,NA,NA,NA,NA,0,"Box",NA,NA,"Retail"
-75550,"Minions Kung Fu Battle",2020,NA,NA,310,NA,NA,NA,NA,0,"Box",NA,NA,"Retail"
 75978,"Diagon Alley",2020,"Harry Potter","16+",5544,1067,399.99,NA,NA,14,"Box",NA,"Small","LEGO exclusive"
 75981,"Harry Potter Advent Calendar",2020,"Harry Potter","7+",335,196,39.99,NA,NA,0,"Box",NA,"Small","Retail"
-75987,"Omnic Bastion",2018,NA,"10+",182,78,NA,NA,NA,0,"Box",NA,NA,"Retail - limited"
 77906,"Wonder Woman",2020,"DC","7+",255,NA,39.99,NA,NA,0,"Box",NA,"Small","Retail - limited"
 80014,"Sandy's Speedboat",2020,"Monkie Kid","8+",394,188,59.99,NA,NA,4,"Box",NA,"Small","Retail"
 80015,"Monkie Kid's Cloud Roadster",2020,"Monkie Kid","8+",659,227,69.99,NA,NA,0,"Box",NA,"Small","Retail"
@@ -1282,18 +1056,6 @@
 88012,"Technic Hub",2020,"Powered UP","7+",1,1,89.99,NA,NA,0,NA,NA,"Small",NA
 88013,"Technic Large Motor",2020,"Powered UP","7+",1,1,39.99,NA,NA,0,NA,NA,"Small",NA
 88014,"Technic XL Motor",2020,"Powered UP","7+",1,1,39.99,NA,NA,0,NA,NA,"Small",NA
-2000455,"FIRST LEGO League Jr. promotional set",2019,NA,NA,NA,9,NA,NA,NA,0,"Polybag",NA,NA,"Not sold"
-2000456,"Spike Prime Marketing Kit",2019,NA,NA,150,32,NA,NA,NA,0,"Polybag",NA,NA,"Not sold"
-4000025,"LEGO Ferguson Tractor",2018,NA,NA,NA,NA,NA,NA,NA,0,"Box",NA,NA,"Not sold"
-4000026,"LEGO House Tree of Creativity",2018,NA,NA,837,132,NA,NA,NA,1,"Box",NA,NA,"Promotional"
-4000028,"House",2018,NA,"6+",64,NA,NA,NA,NA,0,"Box",NA,NA,"Retail - limited"
-4000029,"Windmill",2018,NA,"6+",45,NA,NA,NA,NA,0,"Box",NA,NA,"Retail - limited"
-4000030,"Truck",2018,NA,"6+",44,NA,NA,NA,NA,0,"Box",NA,NA,"Retail - limited"
-4000031,"Exclusive T. rex",2018,NA,"6+",70,24,NA,NA,NA,0,"Box",NA,NA,"Not sold"
-4000034,"LEGO System House",2019,NA,NA,NA,NA,NA,NA,NA,0,"Box",NA,NA,"Not sold"
-4000036,"LEGO Play Day polybag",2019,NA,"6+",39,22,NA,NA,NA,0,"Polybag",NA,NA,"Not sold"
-4002018,"Employee Christmas Gift",2018,NA,NA,1099,NA,NA,NA,NA,0,"Box",NA,NA,"Not sold"
-4002019,"Christmas X-wing",2019,NA,"10+",1038,NA,NA,NA,NA,3,"Box",NA,NA,"Not sold"
 41900,"Rainbow Bracelet",2020,"DOTS","6+",33,9,4.99,NA,NA,0,"Foil pack",NA,"Small","Retail"
 43187,"Rapunzel's Tower",2020,"Disney","6+",369,185,59.99,NA,NA,0,"Box",NA,"Small","Retail"
 43188,"Aurora's Forest Cottage",2020,"Disney","5+",300,163,39.99,NA,NA,0,"Box",NA,"Small","Retail"
