@@ -50,6 +50,6 @@ ts_kernel_smoother <- function(x, b, kernel, ...) {
   })
   
   plot(x, ...)
-  lines(time_points, smooth, col = "blue", lwd = 2)
+  lines(time_points, smooth, type = "l", col = "blue", lwd = 2)
 }
 
