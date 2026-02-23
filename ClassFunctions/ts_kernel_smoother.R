@@ -34,7 +34,7 @@ rectangular <- function(u) {
 
 
 
-# 2. Define custom ksmooth wrapper
+# Main Function 
 ts_kernel_smoother <- function(x, b, kernel, ...) {
   time_points <- time(x)
   
