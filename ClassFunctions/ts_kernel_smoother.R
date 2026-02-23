@@ -1,20 +1,10 @@
 # Kernel functions 
 bartlett <- function(u){
-  if(abs(u)<=1){
-    w <- 1 - abs(u)
-  } else{
-    w <-0
-  }
-  return(w)
+  ifelse(abs(u)<=1, 1 - abs(u), 0)
 }
 
 epanechnikov <- function(u) {
-  if(abs(u)<=1){
-    w <- exp(-u^2/2)/sqrt(2*pi)
-  } else{
-    w <-0
-  }
-  return(w)
+  ifelse(abs(u)<=1,0.75*(1-x^2), 0)
 }
 
 
@@ -24,12 +14,7 @@ normal <- function(u) {
 }
 
 rectangular <- function(u) {
-  if(abs(u)<=1){
-    w <- 1
-  } else{
-    w <-0
-  }
-  return(w)
+  ifelse(abs(u)<=1, 1, 0)
 }
 
 
@@ -48,9 +33,17 @@ ts_kernel_smoother <- function(x, b, kernel, ...) {
     my_kernel = rectangular
   } else {
     my_kernel = bartlett
-    warning("Please supply kernel as: Bartlett, Epanechniov, Normal, or Rectangular. Input not valid, Bartlett was used. ")
+    warning("Please supply kernel as: 'Bartlett', 'Epanechniov', 'Normal', or 'Rectangular'. Input not valid, Bartlett was used. ")
   }
   
+  if(missing(b)){
+    warning('Argument b is missing. Selected b = 1.')
+    b <- 1
+  } else if (b <=0){
+    warning('Argument b should be larger than 0. Used |b|.')
+    b <- abs(b)
+  } 
+   
   smooth <- sapply(time_points, function(one_point) {
     weights <- my_kernel((time_points - one_point) /b)
     sum(weights *x) / sum(weights)
@@ -59,3 +52,4 @@ ts_kernel_smoother <- function(x, b, kernel, ...) {
   plot(x, ...)
   lines(time_points, smooth, col = "blue", lwd = 2)
 }
+
