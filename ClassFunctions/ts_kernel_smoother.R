@@ -49,7 +49,7 @@ ts_kernel_smoother <- function(x, b, kernel, ...) {
     sum(weights *x) / sum(weights)
   })
   
-  plot(x, ...)
+  plot(time_points, x, ...)
   lines(time_points, smooth, type = "l", col = "blue", lwd = 2)
 }
 
