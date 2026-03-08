@@ -21,7 +21,6 @@ rectangular <- function(u) {
 
 # Main Function 
 ts_kernel_smoother <- function(x, b, kernel, ...) {
-  browser()
   time_points <- time(x)
   
   if(kernel == "Bartlett"){
